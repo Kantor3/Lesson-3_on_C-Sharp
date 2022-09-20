@@ -43,11 +43,16 @@ Homework_Tasks
 dotnet new console
 
 
-7 Text of commits of the Tasks:
+7. Изменить настройки для компилятора в файле *.csproj
+<Nullable>annotations</Nullable>
+
+
+8 Text of commits of the Tasks:
 sulution of task-1 of the seminar
  
 
-8 Описание вариантов решения проблемы "Возможно, аргумент-ссылка, допускающий значение NULL" здесь:
+9 Описание вариантов решения проблемы "Возможно, аргумент-ссылка, допускающий значение NULL" здесь:
 https://learn.microsoft.com/ru-ru/dotnet/csharp/nullable-references
+
 
 # Lesson-3_on_C-Sharp
