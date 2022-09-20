@@ -1,0 +1,15 @@
+C:\Users\kanto\OneDrive\Документы\_Учеба\GeekBrain\_Git\_C-Sharp\Lesson_3\Seminar_Task\bin\Debug\net6.0\Seminar_Task.exe
+C:\Users\kanto\OneDrive\Документы\_Учеба\GeekBrain\_Git\_C-Sharp\Lesson_3\Seminar_Task\bin\Debug\net6.0\Seminar_Task.deps.json
+C:\Users\kanto\OneDrive\Документы\_Учеба\GeekBrain\_Git\_C-Sharp\Lesson_3\Seminar_Task\bin\Debug\net6.0\Seminar_Task.runtimeconfig.json
+C:\Users\kanto\OneDrive\Документы\_Учеба\GeekBrain\_Git\_C-Sharp\Lesson_3\Seminar_Task\bin\Debug\net6.0\Seminar_Task.dll
+C:\Users\kanto\OneDrive\Документы\_Учеба\GeekBrain\_Git\_C-Sharp\Lesson_3\Seminar_Task\bin\Debug\net6.0\Seminar_Task.pdb
+C:\Users\kanto\OneDrive\Документы\_Учеба\GeekBrain\_Git\_C-Sharp\Lesson_3\Seminar_Task\obj\Debug\net6.0\Seminar_Task.csproj.AssemblyReference.cache
+C:\Users\kanto\OneDrive\Документы\_Учеба\GeekBrain\_Git\_C-Sharp\Lesson_3\Seminar_Task\obj\Debug\net6.0\Seminar_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanto\OneDrive\Документы\_Учеба\GeekBrain\_Git\_C-Sharp\Lesson_3\Seminar_Task\obj\Debug\net6.0\Seminar_Task.AssemblyInfoInputs.cache
+C:\Users\kanto\OneDrive\Документы\_Учеба\GeekBrain\_Git\_C-Sharp\Lesson_3\Seminar_Task\obj\Debug\net6.0\Seminar_Task.AssemblyInfo.cs
+C:\Users\kanto\OneDrive\Документы\_Учеба\GeekBrain\_Git\_C-Sharp\Lesson_3\Seminar_Task\obj\Debug\net6.0\Seminar_Task.csproj.CoreCompileInputs.cache
+C:\Users\kanto\OneDrive\Документы\_Учеба\GeekBrain\_Git\_C-Sharp\Lesson_3\Seminar_Task\obj\Debug\net6.0\Seminar_Task.dll
+C:\Users\kanto\OneDrive\Документы\_Учеба\GeekBrain\_Git\_C-Sharp\Lesson_3\Seminar_Task\obj\Debug\net6.0\refint\Seminar_Task.dll
+C:\Users\kanto\OneDrive\Документы\_Учеба\GeekBrain\_Git\_C-Sharp\Lesson_3\Seminar_Task\obj\Debug\net6.0\Seminar_Task.pdb
+C:\Users\kanto\OneDrive\Документы\_Учеба\GeekBrain\_Git\_C-Sharp\Lesson_3\Seminar_Task\obj\Debug\net6.0\Seminar_Task.genruntimeconfig.cache
+C:\Users\kanto\OneDrive\Документы\_Учеба\GeekBrain\_Git\_C-Sharp\Lesson_3\Seminar_Task\obj\Debug\net6.0\ref\Seminar_Task.dll
