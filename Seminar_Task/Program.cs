@@ -32,7 +32,7 @@ Console.WriteLine($"number of quadrant is {quadrant}");
 Задача-2-1.  Напишите программу, которая по заданному номеру четверти, 
 показывает диапазон возможных координат точек в этой четверти (x и y).
 */
-/*
+
 void GetRangeQudrand(int quarter)
 {
     string str_infinity = "бесконечность"; // "∞"
@@ -47,7 +47,7 @@ void GetRangeQudrand(int quarter)
     }
     signX = quarter == 1 || quarter == 4 ? "+" : "-";
     signY = quarter == 1 || quarter == 2 ? "+" : "-";
-    Console.WriteLine($@"В 1-й четверти возможны координаты точек: 
+    Console.WriteLine($@"В {quarter}-й четверти возможны координаты точек: 
                          X = (0, ... {signX} {str_infinity})
                          Y = (0, ... {signY} {str_infinity})");
     return;
@@ -64,7 +64,6 @@ while (true)
         GetRangeQudrand(quarter);
 }
 Console.WriteLine("До встречи!");
-*/
 
 
 /*
@@ -72,7 +71,7 @@ Console.WriteLine("До встречи!");
 Задача-2-2. Напишите программу, которая принимает на вход число (N) 
 и выдаёт таблицу квадратов чисел от 1 до N.
 */
-/*
+
 void GetSquares(int number)
 {
     for (int i=1; i<number+1; i++) 
@@ -94,7 +93,6 @@ while (true)
         Console.WriteLine("");
 }
 Console.WriteLine("До встречи!");
-*/
 
 
 /*
@@ -102,25 +100,23 @@ Console.WriteLine("До встречи!");
 Задача-2-3. Напишите программу, которая принимает на вход координаты 
 двух точек и находит расстояние между ними в 2D пространстве..
 */
+
 void Distance_TwoPoints(double x1, double y1, double x2, double y2) 
 {
     double length = Math.Round(Math.Sqrt((x1 - x2)*(x1 - x2) + (y1 - y2)*(y1 - y2)), 1);
     Console.WriteLine($"Расстояние между точками ({x1}, {y1}) и ({x2}, {y2}) в 2D пространстве = {length}");
 }
 
-
 Console.WriteLine(@"Для рассчета расстояния между 2-мя точками в 2D пространстве Введедите их координате");
 Console.WriteLine("---");
 while (true)
 {
     double x1, x2, y1, y2 = 0;
-
     Console.WriteLine("Координаты 1-й точки:");
     Console.Write("X1 = "); 
     x1 = Convert.ToInt32(Console.ReadLine());
     Console.Write("Y1 = "); 
     y1 = Convert.ToInt32(Console.ReadLine());
-  
     Console.WriteLine("Координаты 2-й точки:");
     Console.Write("X2 = "); 
     x2 = Convert.ToInt32(Console.ReadLine());
