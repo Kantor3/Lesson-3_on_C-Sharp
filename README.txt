@@ -40,7 +40,7 @@ Homework_Tasks
 
 
 6 Создать для кода Tast новую консоль
-dotnet console new
+dotnet new console
 
 
 7 Text of commits of the Tasks:
