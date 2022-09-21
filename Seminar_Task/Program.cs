@@ -7,7 +7,6 @@
 причём X ≠ 0 и Y ≠ 0 и выдаёт номер четверти плоскости, в которой находится эта точка.
 */
 
-/*
 int FindQuadrants(double x, double y)
 {
     if (x>0 && y>0) return 1;
@@ -24,7 +23,6 @@ double yA = Convert.ToDouble(Console.ReadLine());
 
 int quadrant = FindQuadrants(xA, yA);
 Console.WriteLine($"number of quadrant is {quadrant}");
-*/
 
 
 /*
@@ -103,7 +101,9 @@ Console.WriteLine("До встречи!");
 
 void Distance_TwoPoints(double x1, double y1, double x2, double y2) 
 {
-    double length = Math.Round(Math.Sqrt((x1 - x2)*(x1 - x2) + (y1 - y2)*(y1 - y2)), 1);
+    double xLen = x1 - x2;
+    double yLen = y1 - y2;
+    double length = Math.Round(Math.Sqrt(xLen*xLen + yLen*yLen), 1);
     Console.WriteLine($"Расстояние между точками ({x1}, {y1}) и ({x2}, {y2}) в 2D пространстве = {length}");
 }
 
@@ -117,6 +117,7 @@ while (true)
     x1 = Convert.ToInt32(Console.ReadLine());
     Console.Write("Y1 = "); 
     y1 = Convert.ToInt32(Console.ReadLine());
+
     Console.WriteLine("Координаты 2-й точки:");
     Console.Write("X2 = "); 
     x2 = Convert.ToInt32(Console.ReadLine());
@@ -130,6 +131,5 @@ while (true)
     char chr_continue = Convert.ToChar(Console.ReadLine());
      if (chr_continue.Equals('N'))
         break;
-
 }
 Console.WriteLine("До встречи!");
