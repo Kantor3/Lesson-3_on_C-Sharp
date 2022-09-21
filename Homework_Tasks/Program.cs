@@ -124,7 +124,7 @@ void GetCube(int number, int power)
 }
 
 int number_max = 100;
-Console.WriteLine(@"Покажу все квадраты чисел от 1 до указанного числа.
+Console.WriteLine(@"Покажу все кубы чисел от 1 до указанного числа.
                     Введите целое число (не более 100). 
                     Для завершения введите '0'");
 Console.WriteLine("---");
